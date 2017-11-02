@@ -1,0 +1,20 @@
+Chuong Viet Truong
+chvtruon
+1490515
+
+Files Submitted:
+-README
+-Makefile
+-bv.c
+-bv.h
+-parfait.c
+-sieve.c
+-sieve.h
+
+Program Description:
+This program goes through each natural number, starting with 2, and determines whether it is a prime, composite, or perfect number. If it is a composite number, the prime factors are listed along with it. If identifies as a perfect number, it is listed along with it's divisors. I used Darrell Long's implementation of the Sieve of Eratosthenes to determine the primes for my program.
+
+Build/Run Program:
+Use the Makefile and type "make" or "make all" or "make parfait" to compile the program. "make clean" removes all .o files and executables.
+
+To run the program, enter "./parfait" into the command line.
