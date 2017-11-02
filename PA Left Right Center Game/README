@@ -1,0 +1,10 @@
+Files Submitted:
+-README
+-Makefile
+-lrc.c
+
+Program Description:
+This program runs the game, Left, Right, and Center. The program will run the game after it has recieved inputs for the seed and number of players.
+
+Build/Run Program:
+use the Makefile and type "make"
