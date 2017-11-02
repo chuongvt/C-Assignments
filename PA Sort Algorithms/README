@@ -1,0 +1,26 @@
+Chuong Viet Truong
+chvtruon
+1490515
+
+Files Submitted:
+-README
+-Makefile
+-minsort.c
+-minsort.h
+-bubblesort.c
+-bubblesort.h
+-insertionsort.c
+-insertionsort.h
+-quicksort.c
+-quicksort.h
+-mergesort.c
+-mergesort.h
+-sorting.c
+
+Program Description:
+This program has 5 different sort algorithms implemented into it and is tested using a testing harness with getopt implemented to parse command line arguments. It sorts random numbers and counts the amount of moves and comparisons for each sort. Thank you Darrell for providing code on some of the sorts. I used the minsort from the assignment2 PDF and also cited my code.
+
+Build/Run Program:
+Use the Makefile and type "make" or "make all" or "make" to compile the program. "make clean" removes all .o files and executables.
+
+To run the program, enter "./sorting" into the command line along with some command line options. "--A" to print all sorts, "-m" for minsort, "-b" for bubblesort, "-i" for insertionsort, "-q" for quicksort, "-M" for mergesort, "-n" for array size, "-p" for amount of elements to be printed, and "-r" to set the random seed.
