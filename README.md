@@ -1,2 +1,2 @@
 # C-Assignments
-Introductory CS C assignments
+CS C assignments
