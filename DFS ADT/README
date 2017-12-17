@@ -1,0 +1,13 @@
+Chuong Viet Truong
+CruzID: Chvtruon
+PA 5
+
+Files:
+    -List.c: List ADT
+    -List.h: Header file for List ADT
+    -Graph.c: Graph ADT
+    -Graph.h: Header file for Graph ADT
+    -GraphTest.c: Tester file for Graph ADT
+    -FindComponents.c: Client file for Graph ADT
+    -Makefile: Compiles and cleans C files
+    -README: This file
